@@ -1,4 +1,5 @@
 # Geopandas
+Background: This repository contains the data mainly in NYC and the document of pynb for using geopandas for spatial and geographic distribution. 
 ## Taxi_lab: 
 Use Taxi and Limousine commission provides open data for yellow taxis, FHV, shared FHV and green taxis for NYC. Cleaning the data - filtering out the outliers and trips with unreasonable parameters. Cleaning the data - filtering out the outliers and trips with unreasonable parameters. Practice spatial mapping with geopandas.
 
