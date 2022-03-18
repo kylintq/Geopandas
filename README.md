@@ -5,3 +5,6 @@ Use Taxi and Limousine commission provides open data for yellow taxis, FHV, shar
 
 ## Clustering: 
 using silhouette_score and the Elbow method on the original data to justify the optimal number of clusters for K-means clustering. Cluster urban locations based on their mobility structrue (%% of trips by each mobility mode within the total trips per location). Use Gausian Mixture algorithm and Kmeans for clustering. Visualize the clustering result by geopandas. Then characterize each cluster with its overall mobility decomposition. Visualize the composition of each clusters.
+
+## NYC restaurant inspections and 311 complaints
+Using features from the restaurant violations and will check how well these are to predict the 311 complaint types regarding restaurants.Also clustering to check which areas are similar in terms of restaurant violations.
